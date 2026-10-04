@@ -1,0 +1,6 @@
+{
+  "name": "ConnectAI — The Intelligent Community Platform",
+  "description": "Find Your People. Share Knowledge. Build Together. An AI-powered, privacy-first community platform for discovering knowledge, matching collaborators, and growing technical communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
